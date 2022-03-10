@@ -1,2 +1,2 @@
 # Module3_Group-43
-### by Vartik, Anmol and Yash
+### by Vartik, Amol and Yash
