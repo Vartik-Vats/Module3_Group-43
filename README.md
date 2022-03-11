@@ -14,6 +14,6 @@ The term remote keyless system (RKS), also called keyless entry or remote centra
 while Bicom system is the extention of the unidirectional RKE to bidirectional RKE system. RKE transmission requires two components - a transmitter and a receiver. • Transmitter - RKE key fob, other ID device with RKE integrated • Receiver - Body Control ECU, other ECU with integrated RKE 2. RKE operates by broadcasting radio waves on a particular frequency unidirectionally.
 
 # FOLDER STRUCTURE
-|0_Requirements|1_Architecture|2_Implementation|3_TestplanAndOutput|4_Report|5_ImagesAndVideos|6_Others|
+|0_Requirements|1_Architecture|2_Implementation|3_TestplanAndOutput|4_Report|5_ImagesAndVideos|6_Applications|7_Others|
 |--------------|--------|----------------|-------------------|--------|-----------------|--------|
-|Documents detailing requirements and research|Documents related to design of model|All codes and make file|test plans with requirements|summary of all the folders|screenshots of working projects|refrences and supporting documents|
+|Documents detailing requirements and research|Documents related to design of model|All codes and make file|test plans with requirements|summary of all the folders|screenshots of working projects|The applications related to the project|refrences and supporting documents|
