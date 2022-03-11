@@ -11,7 +11,7 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 -   It shall display battery information of car for Three User Button Clicks
 -   It shall display door satus of car for Four User Button Clicks
 ## 5W's & 1H
-![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
+![5W1H Questions](https://user-images.githubusercontent.com/98877997/157949953-19fe5da6-d099-44d4-bcdf-ae8b24f4186e.jpg)
 ## SWOT Analysis
 |Strength|Weakness|Opportunities|Threats|
 |:--:|:--:|:--:|:--:|
