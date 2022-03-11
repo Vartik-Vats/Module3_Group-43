@@ -15,5 +15,5 @@ while Bicom system is the extention of the unidirectional RKE to bidirectional R
 
 # FOLDER STRUCTURE
 |0_Requirements|1_Architecture|2_Implementation|3_TestplanAndOutput|4_Report|5_ImagesAndVideos|6_Applications|7_Others|
-|--------------|--------|----------------|-------------------|--------|-----------------|--------|
+|--------------|--------|----------------|-------------------|--------|-----------------|--------|---------------------|
 |Documents detailing requirements and research|Documents related to design of model|All codes and make file|test plans with requirements|summary of all the folders|screenshots of working projects|The applications related to the project|refrences and supporting documents|
