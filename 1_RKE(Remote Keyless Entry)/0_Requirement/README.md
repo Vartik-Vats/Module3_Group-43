@@ -22,10 +22,10 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 ## High Level Requirement
 |ID|Description|
 |:--:|:--:|
-|HLR01||
-|HLR02||
-|HLR03||
-|HLR04||
+|HLR01|User will be able to locked the car|
+|HLR02|User will be able to unlocked the car|
+|HLR03|User will be able to activate or deacticate the alarm|
+|HLR04|User will be able to approach light|
 ## Low Level Requirement
 |ID|Description|
 |:--:|:--:|
