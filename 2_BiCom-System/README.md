@@ -15,7 +15,7 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 ## References
 |S.No.|Links|
 |:-:|:--:|
-|1||
-|2||
-|3||
-|4||
+|1|(https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)|
+|2|(https://www.programiz.com/c-programming/c-dynamic-memory-allocation)|
+|3|(https://www.studytonight.com/c/structures-in-c.php/)|
+

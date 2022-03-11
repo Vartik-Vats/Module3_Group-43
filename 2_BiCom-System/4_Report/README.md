@@ -1,25 +1,32 @@
 # BiCom System
 ## Content
-### 1 Description
+
+1 Description
 -   1.1 Introduction
 -   1.2 Research
 -   1.3 Features
 -   1.4 5W 1H
 -   1.5 SWOT Analysis
-### 2 Requirements
+
+2 Requirements
 -   2.1 Highlevel requirements
 -   2.2 Lowlevel requirements
-### 3 Architectures
-#### 3.1 Behavioural diagram
+
+3 Architectures
+
+3.1 Behavioural diagram
 -   3.1.1 High level FLOW CHART behavioural diagram
 -   3.1.2 Low level FLOW CHART behavioural diagram
-#### 3.2 Structural diagram
+
+3.2 Structural diagram
 -   3.2.1 High level structural diagram
 -   3.2.2 Low level structural diagram
-### 4 Test plans
+
+4 Test plans
 -   4.1 Highlevel testplan
 -   4.2 Lowlevel testplan
-### 5 Applications
+
+5 Applications
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Description
 ### 1.1 Introduction
@@ -28,11 +35,11 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 -   BiCom system ,is a system that is designed to remotely lock or unlock the automobiles, RKE(Remote Keyless entry)system operates by broadcasting radio waves on a particular  frequency unidirectionally,RKE systems implement encryption algorithms to prevent car thieves from intercepting and spoofing the telegrams..
 -   BiCom system, which is nothing but the simple extension of the unidirectional RKE system into bidirectional RKE system.
 -   BiCom system works in both the ways, as like RKE it sends the data but also recieve the data from the vehicle in which it is being implimented.
-### 1.3 Features
-- car must be locked when Button is pressed ONCE.
-- car must be unlocked when Button is pressed TWICE.
-- Activation/deactivation of alarm when the Button is pressed THREE times.
-- car must get exposure to light when the Button is pressed FOUR times.
+## Features
+-   It shall display window satus of car for one User Button Click
+-   It shall display alarm satus of car Two User Button Clicks
+-   It shall display battery information of car for Three User Button Clicks
+-   It shall display door satus of car for Four User Button Clicks
 ### 1.4 5W's & 1H
 ![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
 ### 1.5 SWOT Analysis
@@ -62,16 +69,16 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 |LLR04.1|When the button is pressed all the LED's shall be on|HLR04|
 |LLR04.2|When the button is pressed LED's shall be on in anti-clockwise direction|HLR04|
 ## 3 Architectures
-### 3.1 Behavioural diagram
-#### 3.1.1 High level FLOW CHART behavioural diagram:
-![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/HLFCBD.png)
-#### 3.1.2 Low level FLOW CHART behavioural diagram:
-![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLFCBD.png)
-### 3.2 Structural diagram
-#### 3.2.1 High level structural diagram
-![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLSD.png)
-#### 3.2.2 Low level structural diagram
-![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/Screenshot%20(130).png)
+## 3.1 Behavioural diagram
+### 3.1.1 High level FLOW CHART behavioural diagram:
+![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlflowchart.png)
+### 3.1.2Low level FLOW CHART behavioural diagram:
+![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llflowchart.png)
+## 3.2 Structural diagram
+### 3.2.1 High level structural diagram
+![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlstructural.png)
+### 3.2.2 Low level structural diagram
+![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llstructural.png)
 ## 4 Test plans
 ### 4.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
