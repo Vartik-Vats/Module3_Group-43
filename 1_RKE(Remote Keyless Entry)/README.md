@@ -10,6 +10,8 @@
 |3_TestPlanAndOutput|Documents with test plans and procedures|
 |4_Report|Attach Report with all the scope of work|
 |5_ImagesAndVideos|All images related to the project|
+|6_Application|All information about app|
+|7_Others|All other refernces and document|
 ## References
 |S.No.|Links|
 |:-:|:--:|
