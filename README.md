@@ -1,13 +1,13 @@
 # Module3_Group-43
 ## WorkDone
 ### Group Members
-|PS No.|Nmae|
+|PS No.|Name|
 |:--:|:--:|
 |99007893|Vartik Vats|
 |99007892|Yash Rastogi|
 |99007750|Amol Kulkarni|
 ### RKE(Remote Keyless Entry)
-|Folder|Done|
+|Folder|Done By|
 |:-:|:--:|
 |0_Requirement|Vartik, Amol|
 |1_Architecture|Vartik|
