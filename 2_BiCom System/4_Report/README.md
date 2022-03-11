@@ -1,25 +1,32 @@
 # BiCom System
 ## Content
-### 1 Description
+
+1 Description
 -   1.1 Introduction
 -   1.2 Research
 -   1.3 Features
 -   1.4 5W 1H
 -   1.5 SWOT Analysis
-### 2 Requirements
+
+2 Requirements
 -   2.1 Highlevel requirements
 -   2.2 Lowlevel requirements
-### 3 Architectures
-#### 3.1 Behavioural diagram
+
+3 Architectures
+
+3.1 Behavioural diagram
 -   3.1.1 High level FLOW CHART behavioural diagram
 -   3.1.2 Low level FLOW CHART behavioural diagram
-#### 3.2 Structural diagram
+
+3.2 Structural diagram
 -   3.2.1 High level structural diagram
 -   3.2.2 Low level structural diagram
-### 4 Test plans
+
+4 Test plans
 -   4.1 Highlevel testplan
 -   4.2 Lowlevel testplan
-### 5 Applications
+
+5 Applications
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Description
 ### 1.1 Introduction
@@ -62,15 +69,15 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 |LLR04.1|When the button is pressed all the LED's shall be on|HLR04|
 |LLR04.2|When the button is pressed LED's shall be on in anti-clockwise direction|HLR04|
 ## 3 Architectures
-## Behavioural diagram
-### High level FLOW CHART behavioural diagram:
+## 3.1 Behavioural diagram
+### 3.1.1 High level FLOW CHART behavioural diagram:
 ![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlflowchart.png)
-### Low level FLOW CHART behavioural diagram:
+### 3.1.2Low level FLOW CHART behavioural diagram:
 ![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llflowchart.png)
-## Structural diagram
-### High level structural diagram
+## 3.2 Structural diagram
+### 3.2.1 High level structural diagram
 ![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlstructural.png)
-### Low level structural diagram
+### 3.2.2 Low level structural diagram
 ![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llstructural.png)
 ## 4 Test plans
 ### 4.1 High Level Test Plan
