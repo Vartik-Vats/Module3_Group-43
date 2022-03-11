@@ -1,32 +1,51 @@
 # BiCom System
-## Introduction
+## Content
+### 1 Description
+-   1.1 Introduction
+-   1.2 Research
+-   1.3 Features
+-   1.4 5W 1H
+-   1.5 SWOT Analysis
+### 2 Requirements
+-   2.1 Highlevel requirements
+-   2.2 Lowlevel requirements
+### 3 Architectures
+
+### 4 Test plans
+-   4.1 Highlevel testplan
+-   4.2 Lowlevel testplan
+### 5 Applications
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 1 Description
+### 1.1 Introduction
 The term bi-com, is also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity. Widely used in automobiles, an RKS performs the functions of a standard car key without physical contact. When within a few yards of the car, pressing a button on the remote can lock or unlock the doors, and may perform other functions.
-## Research
+### 1.2 Research
 -   BiCom system ,is a system that is designed to remotely lock or unlock the automobiles, RKE(Remote Keyless entry)system operates by broadcasting radio waves on a particular  frequency unidirectionally,RKE systems implement encryption algorithms to prevent car thieves from intercepting and spoofing the telegrams..
 -   BiCom system, which is nothing but the simple extension of the unidirectional RKE system into bidirectional RKE system.
 -   BiCom system works in both the ways, as like RKE it sends the data but also recieve the data from the vehicle in which it is being implimented.
-## Features
+### 1.3 Features
 - car must be locked when Button is pressed ONCE.
 - car must be unlocked when Button is pressed TWICE.
 - Activation/deactivation of alarm when the Button is pressed THREE times.
 - car must get exposure to light when the Button is pressed FOUR times.
-## 5W's & 1H
+### 1.4 5W's & 1H
 ![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
-## SWOT Analysis
+### 1.5 SWOT Analysis
 |Strength|Weakness|Opportunities|Threats|
 |:--:|:--:|:--:|:--:|
 |Data encryption is used for security|Limited user range|Scope in automobiles|more delay between functionalities|
 |overall handy functionality|battery replacement required |Car safety|can be manipulate|
 |No Human interaction required|water and dust can affect the system|user friendy system|Cannot Multitask in same time|
 |High Security|user have to wait for next functionality|cost effective|battery replacement required frequently|
-## High Level Requirement
+## 2 Requirements
+### 2.1 High Level Requirement
 |ID|Description|
 |:--:|:--:|
 |HLR01|The system shall print window status when blue switch press once|
 |HLR02|The system shall print alarm status when blue switch press two times|
 |HLR03|The system shall print car battery info when blue switch press three times|
 |HLR04|The system shall print door status when blue switch press four times|
-## Low Level Requirement
+### 2.2 Low Level Requirement
 |LLR ID|Description|HLR ID|
 |:--:|:--:|:--:|
 |LLR01.1|When the button is pressed all the LED's shall be on|HLR01|
@@ -37,3 +56,18 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 |LLR03.2|When the button is pressed LED's shall be on in clockwise direction|HLR03|
 |LLR04.1|When the button is pressed all the LED's shall be on|HLR04|
 |LLR04.2|When the button is pressed LED's shall be on in anti-clockwise direction|HLR04|
+## 4 Test plans
+### 4.1 High Level Test Plan
+| Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
+|---------|-------------|---------|---------|------------|---------------|
+| HL01 | Status of Car lock | User 1 Button Press | Car locked | Car locked | Passed |
+| HL02 | Status of car unlock | User 2 Button Press | Car unlocked | Car unlocked | Passed |
+| HL03 | Car Alarm Status | User 3 Button Press | Alarm Activated | Alarm Activated | Passed |
+| HL04 | Car Battery Status | User 4 Button Press | Battery Displayed | Battery Displayed | Passed |
+### 4.2 Low Level Test Plan
+| Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
+|---------|-------------|---------|---------|------------|---------------|
+| LL01 | Check for lock | User prsses the Button Once | All LED's turn On | All LED's turn On |  Passed |
+| LL02 | Check for unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
+| LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passsed |
+| LL04 | Check for Battery | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
