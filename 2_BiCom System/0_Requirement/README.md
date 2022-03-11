@@ -6,10 +6,10 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 -   BiCom system, which is nothing but the simple extension of the unidirectional RKE system into bidirectional RKE system.
 -   BiCom system works in both the ways, as like RKE it sends the data but also recieve the data from the vehicle in which it is being implimented.
 ## Features
-- car must be locked when Button is pressed ONCE.
-- car must be unlocked when Button is pressed TWICE.
-- Activation/deactivation of alarm when the Button is pressed THREE times.
-- car must get exposure to light when the Button is pressed FOUR times.
+-   Car must be locked when Button is pressed ONCE.
+-   Car must be unlocked when Button is pressed TWICE.
+-   Activation/deactivation of alarm when the Button is pressed THREE times.
+-   Car must get exposure to light when the Button is pressed FOUR times.
 ## 5W's & 1H
 ![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
 ## SWOT Analysis
