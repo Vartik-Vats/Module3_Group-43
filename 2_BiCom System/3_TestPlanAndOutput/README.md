@@ -13,8 +13,10 @@ Low Level Test Plan
 
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
-| LL01 | Check for lock | User prsses the Button Once | All LED's turn On | All LED's turn On |      |
-| LL02 | Check for unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off |     |
-| LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction |     |
-| LL04 | Check for Battery | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction |      | 
+| LL01 | Check for lock | User prsses the Button Once | All LED's turn On | All LED's turn On |  Passed |
+| LL02 | Check for unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
+| LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passsed |
+| LL04 | Check for Battery | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
+
+
 
