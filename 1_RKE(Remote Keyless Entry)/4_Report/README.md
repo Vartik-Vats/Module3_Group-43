@@ -63,3 +63,7 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 | LL02 | Check for unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off |Passed|
 | LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction |Passed|
 | LL04 | Check for Battery | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction |Passed| 
+## Applications
+-   It provides vehicle owners with a degree of convenience, making the task of physically inserting a key unnecessary.
+-   If someone tries to unclock the vehicle without pressing key buttons, then the key alarms get activated and user gets aware of the situation.
+-   It is used in the smart home applications. A keyless entry system offers enhanced security and greater convenience for people with mobility issues and those who find themselves arriving at the front door with their hands full. 
