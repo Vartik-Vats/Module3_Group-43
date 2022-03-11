@@ -15,10 +15,10 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 ## SWOT Analysis
 |Strength|Weakness|Opportunities|Threats|
 |:--:|:--:|:--:|:--:|
-|||||
-|||||
-|||||
-|||||
+|Encryption is used|Limited user range|Scope in automobiles|Less accurate timing|
+|Better access control|Handled carefully|Car safety|Possibilty to manipulate|
+|No Interaction with Humans|Key battery|Cost effective|Cannot Multitask in same time|
+|High Security|Chance of Failure|Emerging Technology|No long life|
 ## High Level Requirement
 |ID|Description|
 |:--:|:--:|
