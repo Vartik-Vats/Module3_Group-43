@@ -10,10 +10,10 @@
 -   2.1 Highlevel requirements
 -   2.2 Lowlevel requirements
 ### 3 Architectures
-3.1 Behavioural Diagram
+#### 3.1 Behavioural Diagram
 -   3.1.1 High Level Flow Chart
 -   3.1.2 Low Level Flow Chart
-3.2 Structural Diagram
+#### 3.2 Structural Diagram
 -   3.2.1 High Level Structural Diagram
 -   3.2.2 Low Level Structural Diagram
 ### 4 Test plans
