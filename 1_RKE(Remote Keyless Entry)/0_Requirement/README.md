@@ -9,6 +9,6 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 -   When the button is pressed ONCE, the car will be locked.
 -   When the button is pressed TWICE, the car will be unlocked.
 -   When the button is pressed THREE times, it will activate or deactivate the alarm.
--   When the button is pressed four times, it will approach light.
+-   When the button is pressed FOUR times, it will approach light.
 ## 5W 1H
 ![5W 1H](https://user-images.githubusercontent.com/98872937/157816966-79f09c7d-0bc4-4d61-8dde-210d7bcc9501.jpg) 
