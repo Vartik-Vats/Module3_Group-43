@@ -62,16 +62,16 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 |LLR04.1|When the button is pressed all the LED's shall be on|HLR04|
 |LLR04.2|When the button is pressed LED's shall be on in anti-clockwise direction|HLR04|
 ## 3 Architectures
-### 3.1 Behavioural diagram
-#### 3.1.1 High level FLOW CHART behavioural diagram:
-![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/HLFCBD.png)
-#### 3.1.2 Low level FLOW CHART behavioural diagram:
-![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLFCBD.png)
-### 3.2 Structural diagram
-#### 3.2.1 High level structural diagram
-![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLSD.png)
-#### 3.2.2 Low level structural diagram
-![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/Screenshot%20(130).png)
+## Behavioural diagram
+### High level FLOW CHART behavioural diagram:
+![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlflowchart.png)
+### Low level FLOW CHART behavioural diagram:
+![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llflowchart.png)
+## Structural diagram
+### High level structural diagram
+![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlstructural.png)
+### Low level structural diagram
+![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llstructural.png)
 ## 4 Test plans
 ### 4.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
