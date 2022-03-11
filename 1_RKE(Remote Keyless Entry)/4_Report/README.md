@@ -10,16 +10,17 @@
 -   2.1 Highlevel requirements
 -   2.2 Lowlevel requirements
 ### 3 Architectures
--   3.1 Behavioural Diagram
+3.1 Behavioural Diagram
 -   3.1.1 High Level Flow Chart
 -   3.1.2 Low Level Flow Chart
--   3.2 Structural Diagram
+3.2 Structural Diagram
 -   3.2.1 High Level Structural Diagram
 -   3.2.2 Low Level Structural Diagram
 ### 4 Test plans
 -   4.1 Highlevel testplan
 -   4.2 Lowlevel testplan
 ### 5 Applications
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Description
 ### 1.1 Introduction
 A Remote Keyless Entry System is an electronic lock that controls vehicle or building access without the use of a typical mechanical key. "Keyless entry" or "remote central locking" are other terms for "remote keyless system" (RKS). It's a key that can be triggered by a handheld device or by proximity. It works in the same way as a traditional automobile key but without the need for physical touch. When the remote is within range of the vehicle, hitting a button on the remote can lock or unlock the doors, among other things.
