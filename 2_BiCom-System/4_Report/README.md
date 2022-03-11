@@ -26,7 +26,6 @@
 -   4.1 Highlevel testplan
 -   4.2 Lowlevel testplan
 
-5 Applications
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1 Description
 ### 1.1 Introduction
@@ -41,7 +40,7 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 -   It shall display battery information of car for Three User Button Clicks
 -   It shall display door satus of car for Four User Button Clicks
 ### 1.4 5W's & 1H
-![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
+![5W 1H](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom-System/5_ImagesAndVideos/5W1H%20Questions.jpg) 
 ### 1.5 SWOT Analysis
 |Strength|Weakness|Opportunities|Threats|
 |:--:|:--:|:--:|:--:|
@@ -71,14 +70,14 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 ## 3 Architectures
 ## 3.1 Behavioural diagram
 ### 3.1.1 High level FLOW CHART behavioural diagram:
-![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlflowchart.png)
+![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom-System/5_ImagesAndVideos/hlflowchart.png)
 ### 3.1.2Low level FLOW CHART behavioural diagram:
-![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llflowchart.png)
+![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom-System/5_ImagesAndVideos/llflowchart.png)
 ## 3.2 Structural diagram
 ### 3.2.1 High level structural diagram
-![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/hlstructural.png)
+![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom-System/5_ImagesAndVideos/hlstructural.png)
 ### 3.2.2 Low level structural diagram
-![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/llstructural.png)
+![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom-System/5_ImagesAndVideos/llstructural.png)
 ## 4 Test plans
 ### 4.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
@@ -94,4 +93,3 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 | LL02 | Check for Alarm | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
 | LL03 | Check for Battery | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passsed |
 | LL04 | Check for Door | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
-## 5 Application
