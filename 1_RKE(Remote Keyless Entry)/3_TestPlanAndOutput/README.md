@@ -12,4 +12,3 @@
 | LL02 | Check for Car Unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
 | LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passed |
 | LL04 | Check for Approach Light | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
-
