@@ -1,4 +1,7 @@
 # Module3_Group-43
+|Codiga Score|Codiga Grade|
+|:--:|:--:|
+|[Code Quality Score](https://api.codiga.io/project/31874/score/svg)|[Code Grade](https://api.codiga.io/project/31874/status/svg)|
 ## WorkDone
 ### Group Members
 |PS No.|Name|
