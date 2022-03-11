@@ -15,8 +15,8 @@
 |0_Requirement|Vartik, Amol|
 |1_Architecture|Vartik|
 |2_Implementation|Vartik, Amol, Yash|
-|3_TestPlanAndOutput|Amol|
-|4_Report|Vartik|
+|3_TestPlanAndOutput|Amol, Yash|
+|4_Report|Vartik, Yash|
 |5_ImagesAndVideos|Vartik|
 |6_Application|Amol|
 |7_Others|Vartik, Amol, Yash|
