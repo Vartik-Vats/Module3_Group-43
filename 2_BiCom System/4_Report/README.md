@@ -10,7 +10,12 @@
 -   2.1 Highlevel requirements
 -   2.2 Lowlevel requirements
 ### 3 Architectures
-
+#### 3.1 Behavioural diagram
+-   3.1.1 High level FLOW CHART behavioural diagram
+-   3.1.2 Low level FLOW CHART behavioural diagram
+#### 3.2 Structural diagram
+-   3.2.1 High level structural diagram
+-   3.2.2 Low level structural diagram
 ### 4 Test plans
 -   4.1 Highlevel testplan
 -   4.2 Lowlevel testplan
@@ -56,19 +61,30 @@ The term bi-com, is also called keyless entry or remote central locking, refers 
 |LLR03.2|When the button is pressed LED's shall be on in clockwise direction|HLR03|
 |LLR04.1|When the button is pressed all the LED's shall be on|HLR04|
 |LLR04.2|When the button is pressed LED's shall be on in anti-clockwise direction|HLR04|
+## 3 Architectures
+### 3.1 Behavioural diagram
+#### 3.1.1 High level FLOW CHART behavioural diagram:
+![HLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/HLFCBD.png)
+#### 3.1.2 Low level FLOW CHART behavioural diagram:
+![LLFCBD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLFCBD.png)
+### 3.2 Structural diagram
+#### 3.2.1 High level structural diagram
+![HLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/LLSD.png)
+#### 3.2.2 Low level structural diagram
+![LLSD](https://raw.githubusercontent.com/Vartik-Vats/Module3_Group-43/main/2_BiCom%20System/5_ImagesAndVideos/Screenshot%20(130).png)
 ## 4 Test plans
-## High Level Test Plan
+### 4.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | HL01 | Status of Window | User 1 Button Press | Window Activated | Window Activated | Passed |
 | HL02 | Status of Alarm | User 2 Button Press | Alarm Detected | Alarm Detected | Passed |
 | HL03 | Status of Battery | User 3 Button Press | Battery Displayed | Battery Displayed | Passed |
 | HL04 | Status of Door | User 4 Button Press | Door Detected | Door Detected | Passed |
-## Low Level Test Plan
+### 4.2 Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | LL01 | Check for Window | User prsses the Button Once | All LED's turn On | All LED's turn On |  Passed |
 | LL02 | Check for Alarm | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
 | LL03 | Check for Battery | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passsed |
 | LL04 | Check for Door | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
-
+## 5 Application
