@@ -1,1 +1,16 @@
+High Level Test Plan
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+| Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
+|---------|-------------|---------|---------|------------|---------------|
+| HL01 | Status of Car lock | User 1 Button Press | Car locked | Car locked | Passed |
+| HL02 | Status of car unlock | User 2 Button Press | Car unlocked | Car unlocked | Passed |
+| HL03 | Car Alarm Status | User 3 Button Press | Alarm Activated | Alarm Activated | Passed |
+| HL04 | Car Battery Status | User 4 Button Press | Battery Displayed | Battery Displayed | Passed |
+
+Low Level Test Plan
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+| Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
+|---------|-------------|---------|---------|------------|---------------|
+| LL01 | 
