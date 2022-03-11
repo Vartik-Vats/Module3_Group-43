@@ -15,7 +15,6 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 ## References
 |S.No.|Links|
 |:-:|:--:|
-|1||
-|2||
-|3||
-|4||
+|1|[TechTarget](https://whatis.techtarget.com/definition/Remote-keyless-entry-RKE#:~:text=Remote%20keyless%20entry%20%28RKE%29%20is%20an%20electronic%20access,button%20on%20a%20physical%20fob%20or%20mobile%20app.)|
+|2|[Wikipedia](https://en.wikipedia.org/wiki/Remote_keyless_system)|
+|3|[Sciencedirect](https://www.sciencedirect.com/topics/engineering/keyless-entry-system)|
