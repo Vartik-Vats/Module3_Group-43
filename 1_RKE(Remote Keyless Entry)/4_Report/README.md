@@ -74,19 +74,20 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 ![Low level UML](https://user-images.githubusercontent.com/98877997/157847638-a6216e60-f3f5-4b32-8536-37fcd84eb7b8.jpg)
 ## 4 Test Plan
 ### 4.1 High Level Test Plan
+## High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
-| HL01 | Status of Car lock | User 1 Button Press | Car locked | Car locked | Passed |
-| HL02 | Status of car unlock | User 2 Button Press | Car unlocked | Car unlocked | Passed |
-| HL03 | Car Alarm Status | User 3 Button Press | Alarm Activated | Alarm Activated | Passed |
-| HL04 | Car Battery Status | User 4 Button Press | Battery Displayed | Battery Displayed | Passed |
-### 4.2 Low Level Test Plan
+| HL01 | Status of Car Lock | User 1 Button Press | Car locked | Car locked | Passed |
+| HL02 | Status of car Unlock | User 2 Button Press | Car unlocked | Car unlocked | Passed |
+| HL03 | Status of Alarm | User 3 Button Press | Alarm Activated | Alarm Activated | Passed |
+| HL04 | Status of Approach Light | User 4 Button Press | Approach Detected | Approach Detected | Passed |
+## Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
-| LL01 | Check for lock | User prsses the Button Once | All LED's turn On | All LED's turn On |Passed|
-| LL02 | Check for unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off |Passed|
-| LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction |Passed|
-| LL04 | Check for Battery | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction |Passed| 
+| LL01 | Check for Car Lock | User prsses the Button Once | All LED's turn On | All LED's turn On | Passed |
+| LL02 | Check for Car Unlock | User prsses the Button Twice | All LED's turn Off | All LED's turn Off | Passed |
+| LL03 | Check for Alarm | User presses the Button Thrice | LED's On in clockwise direction | LED's On in clockwise direction | Passed |
+| LL04 | Check for Approach Light | User presses the Button Four times | LED's On in anticlockwise direction | LED's On in anticlockwise direction | Passed | 
 ## 5 Applications
 -   It provides vehicle owners with a degree of convenience, making the task of physically inserting a key unnecessary.
 -   If someone tries to unclock the vehicle without pressing key buttons, then the key alarms get activated and user gets aware of the situation.
