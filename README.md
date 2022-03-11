@@ -1,15 +1,33 @@
 # Module3_Group-43
 ## WorkDone
-### RKE(Remote Keyless Entry)
-|Folder|Done|
-|:-:|:--:|
-|||
-## Group Members
+### Group Members
 |PS No.|Nmae|
 |:--:|:--:|
 |99007893|Vartik Vats|
 |99007892|Yash Rastogi|
 |99007750|Amol Kulkarni|
+### RKE(Remote Keyless Entry)
+|Folder|Done|
+|:-:|:--:|
+|0_Requirement|Vartik, Amol|
+|1_Architecture|Vartik|
+|2_Implementation|Vartik, Amol, Yash|
+|3_TestPlanAndOutput|Amol|
+|4_Report|Vartik|
+|5_ImagesAndVideos|Vartik|
+|6_Application|Amol|
+|7_Others|Vartik, Amol, Yash|
+### BiCom System
+|Folder|Done|
+|:-:|:--:|
+|0_Requirement|Yash|
+|1_Architecture|Yash|
+|2_Implementation|Vartik, Amol, Yash|
+|3_TestPlanAndOutput|Amol|
+|4_Report|Vartik|
+|5_ImagesAndVideos|Yash|
+|6_Application|Amol|
+|7_Others|Vartik, Amol, Yash|
 ## Workflow
 |Sl. No.|Folder|
 |:-:|:--:|
