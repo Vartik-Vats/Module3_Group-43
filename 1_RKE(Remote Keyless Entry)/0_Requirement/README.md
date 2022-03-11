@@ -28,7 +28,7 @@ A Remote Keyless Entry System is an electronic lock that controls vehicle or bui
 |HLR04|User will be able to approach light|
 ## Low Level Requirement
 |ID|HLR ID|Description|
-|:--:|:--:|
+|:--:|:--:|:--:|
 |LLR1.1|HLR01|If the user button is pressed ONCE, LEDS ORANGE and GREEN, as well as the other LEDs, will turn ON|
 |LLR1.2|HLR01|If the user button is pressed ONCE, LED RED, BLUE, as well as the other LEDs, will turn ON|
 |LLR2.1|HLR02|If the user button is pressed TWICE, LED ORANGE, GREEN, as well as the other LEDs, will turn OFF|
