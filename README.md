@@ -1,7 +1,7 @@
 # Module3_Group-43
-|Codiga Score|Codiga Grade|
-|:--:|:--:|
-|![Code Quality Score](https://api.codiga.io/project/31874/score/svg)|![Code Grade](https://api.codiga.io/project/31874/status/svg)|
+|Codacy|Codiga Score|Codiga Grade|
+|:--:|:--:|:--:|
+|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/76405cd1fa0e4984b289eaf91ea8573c)](https://www.codacy.com/gh/Vartik-Vats/Module3_Group-43/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vartik-Vats/Module3_Group-43&amp;utm_campaign=Badge_Grade)|![Code Quality Score](https://api.codiga.io/project/31874/score/svg)|![Code Grade](https://api.codiga.io/project/31874/status/svg)|
 ## WorkDone
 ### Group Members
 |PS No.|Name|
